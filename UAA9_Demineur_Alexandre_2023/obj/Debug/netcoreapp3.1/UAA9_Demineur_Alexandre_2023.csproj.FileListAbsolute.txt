@@ -1,0 +1,14 @@
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.exe
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.deps.json
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.runtimeconfig.json
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.runtimeconfig.dev.json
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.dll
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\bin\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.pdb
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.AssemblyInfoInputs.cache
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.AssemblyInfo.cs
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.csproj.CoreCompileInputs.cache
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.dll
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.pdb
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.genruntimeconfig.cache
+C:\Users\210278.asty-moulin\source\repos\UAA9_Demineur_Alexandre_2023\UAA9_Demineur_Alexandre_2023\obj\Debug\netcoreapp3.1\UAA9_Demineur_Alexandre_2023.csproj.AssemblyReference.cache
